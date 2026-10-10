@@ -1,0 +1,7 @@
+NODE_ENV=development
+PORT=9000
+MONGODB_URI=mongodb+srv://k9ali905_db_user:BirAbG1j2ASGVklj@cluster0.ooli5we.mongodb.net/?appName=Cluster0
+JWT_SECRET=Fitly1234
+REACT_APP_GEMINI_API_KEY= 
+//add_your_api_key
+FRONTEND_URL=http://localhost:3000
