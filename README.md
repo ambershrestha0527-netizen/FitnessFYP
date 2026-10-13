@@ -133,13 +133,6 @@ npm start
 
 ---
 
-## 📊 Datasets Used
-
-* **Exercise & Fitness Dataset** (Kaggle)
-* **Nutrition & Meal Dataset** (Kaggle)
-
-These datasets were used to train the recommendation logic and build AI prompts for Gemini API integration.
-
 ---
 
 ## 🔮 Future Enhancements
